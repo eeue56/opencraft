@@ -62,6 +62,7 @@ target/
 # Local configuration
 .env
 .env.integration
+.env.local*
 
 # Vagrant
 .vagrant/
